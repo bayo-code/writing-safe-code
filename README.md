@@ -15,3 +15,4 @@
 * A file is a module
 * Detect and remove dead code
 * Do not store long-lived references to pointers to stack memory.
+* Favor using arena allocators in functions
