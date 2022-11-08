@@ -1,8 +1,8 @@
 # Tips to Writing Safe Code
 
 ## General
-* Use enums as error types (in zig, just use the `error` abstraction.
-* Be pessimistic by default (i.e., expect functions to fail
+* Use enums as error types (in zig, just use the `error` abstraction).
+* Be pessimistic by default (i.e., expect functions to fail).
 * Initialize variables before use
 * Do not ignore compiler warnings
 * Always check return values
